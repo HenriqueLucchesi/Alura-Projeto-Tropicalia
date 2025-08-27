@@ -193,3 +193,8 @@ h2 {
 .alto-contraste .fundo-galeria {
     background: none;
 }
+
+footer {
+  text-align: center;
+  font-size: 20px; 
+}
